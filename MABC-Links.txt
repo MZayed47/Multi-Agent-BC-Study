@@ -1,0 +1,19 @@
+
+https://github.com/daghty/gen-MA-BC
+https://github.com/felixykliu/gen-MA-BC
+
+
+Halite:
+https://www.kaggle.com/c/halite
+https://www.kaggle.com/c/halite/discussion/183543
+https://github.com/ttvand/Halite
+
+
+Hungry Geese:
+https://www.kaggle.com/c/hungry-geese/discussion/263686
+https://www.kaggle.com/c/hungry-geese/discussion/263735
+
+
+Handy RL:
+https://github.com/DeNA/HandyRL
+
